@@ -3,6 +3,7 @@ kind: Deployment
 metadata:
   name: jenkins-demo
   namespace: default
+#sdfs
   labels:
     app: jenkins-demo
 spec:
